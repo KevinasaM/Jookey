@@ -12,7 +12,7 @@ import type React from "react"
 const inter = Inter({ subsets: ["latin"] })
 
 export const metadata = {
-  title: "JooKey",
+  title: "JooKey -  Joki Tugas | Solusi Digital Terpercaya, Coding, IoT & Website Development",
   description: "Layanan joki tugas kuliah, coding, IoT, dan website development",
     generator: 'Kevin'
 }
