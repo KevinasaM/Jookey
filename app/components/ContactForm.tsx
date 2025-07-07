@@ -52,9 +52,9 @@ export default function ContactForm() {
           transition={{ duration: 0.8 }}
           className="text-center mb-12"
         >
-          <h2 className="text-3xl font-bold text-foreground sm:text-4xl mb-4">Get in Touch</h2>
+          <h2 className="text-3xl font-bold text-foreground sm:text-4xl mb-4">Hubungi Kami</h2>
           <p className="text-lg text-muted-foreground">
-            We'd love to hear from you. Fill out the form below and we'll get back to you as soon as possible.
+            Kami ingin sekali mendengar pendapat Anda. Isi formulir di bawah ini dan kami akan menghubungi Anda sesegera mungkin.
           </p>
         </motion.div>
         <motion.div
